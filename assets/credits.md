@@ -41,4 +41,9 @@ Attribution Noncommercial (3.0)
 
 ---
 
+"Bottle Spells, Cerrillos Turquoise Mining Museum" by cobalt123 is licensed under CC BY-NC-SA 2.0
+
+---
+
+"Tamworth Castle" by ell brown is licensed under CC BY 2.0
 
