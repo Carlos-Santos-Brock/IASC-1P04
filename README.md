@@ -8,4 +8,4 @@ Playtest my game [here]
 
 ## Game Prototype
 
-Read the documentation for my game [here](prototype/Twine Game Assugnment Prototype.html)
+Read the documentation for my game [here](prototype/Twine Game Assignment Prototype.html)
