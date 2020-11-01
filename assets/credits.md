@@ -47,3 +47,7 @@ Attribution Noncommercial (3.0)
 
 "Tamworth Castle" by ell brown is licensed under CC BY 2.0
 
+---
+
+"Storm clouds 5" by MRHSfan is licensed under CC BY-NC-ND 2.0
+
