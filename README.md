@@ -6,6 +6,6 @@ Welcome to the website for my twine GAME, created for the course IASC 1P04 at Br
 
 Playtest my game [here]
 
-## Game Proposal Document
+## Game Prototype
 
-Read the documentation for my game [here]
+Read the documentation for my game [here](prototype/Twine Game Assugnment.html)
