@@ -22,3 +22,7 @@ by vo1k1
 2020 - Licensed under
 Creative Commons
 Attribution Noncommercial (3.0)
+
+---
+
+"Candy Corn, PG#24" by WxMom is licensed under CC BY-SA 2.0
