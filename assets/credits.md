@@ -51,3 +51,7 @@ Attribution Noncommercial (3.0)
 
 "Storm clouds 5" by MRHSfan is licensed under CC BY-NC-ND 2.0
 
+---
+
+"Dark sky" by theseanster93 is licensed under CC BY-SA 2.0
+
