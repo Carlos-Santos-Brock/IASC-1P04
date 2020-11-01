@@ -26,3 +26,7 @@ Attribution Noncommercial (3.0)
 ---
 
 "Candy Corn, PG#24" by WxMom is licensed under CC BY-SA 2.0
+
+---
+
+"Lollipop" by Sister72 is licensed under CC BY 2.0
