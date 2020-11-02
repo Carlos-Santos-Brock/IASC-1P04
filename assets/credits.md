@@ -55,3 +55,7 @@ Attribution Noncommercial (3.0)
 
 "Dark sky" by theseanster93 is licensed under CC BY-SA 2.0
 
+---
+
+"Cruise Ship Cupcake" by clevercupcakes is licensed under CC BY 2.0
+
