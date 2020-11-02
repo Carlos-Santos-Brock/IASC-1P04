@@ -67,3 +67,21 @@ Attribution Noncommercial (3.0)
 
 "El Matador State Beach, Ca - The Fog and mousetricity." by ™ Pacheco is licensed under CC BY-ND 2.0
 
+---
+
+"Dm112-SpookyBlues"
+by Javolenus
+
+2012 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)
+
+---
+
+"Delta Blues Ac"
+by Stefan Kartenberg
+
+2020 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)
+
