@@ -59,3 +59,7 @@ Attribution Noncommercial (3.0)
 
 "Cruise Ship Cupcake" by clevercupcakes is licensed under CC BY 2.0
 
+---
+
+"Like a kid in a candy store.." by Irene Grassi (sun sand & sea) is licensed under CC BY-SA 2.0
+
