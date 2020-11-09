@@ -2,7 +2,8 @@
 
 Welcome to the website for my twine GAME, created for the course IASC 1P04 at Brock University
 
-# A Desserted Departure
+## A Desserted Departure
+
 ## Playtest
 
 ## Game Prototype
