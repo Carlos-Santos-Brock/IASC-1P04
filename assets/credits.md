@@ -94,3 +94,11 @@ by Kraftamt
 Creative Commons
 Attribution Noncommercial (3.0)
 
+---
+
+"Long Strange Track"
+by septahelix
+
+2020 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)
