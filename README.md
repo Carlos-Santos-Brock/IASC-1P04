@@ -2,9 +2,13 @@
 
 Welcome to the website for my twine GAME, created for the course IASC 1P04 at Brock University
 
-### A Desserted Departure
+## About A Desserted Departure
 
-## Playtest
+A Desserted Departure is a short game where players control the character named Bobsicle Boy. The story takes place on an unfamiliar land called the Candy Lands where Bobsicle Boy's boat was mysteriously destroyed. The player's main objective is to earn enough funds from one of the kingdoms to buy a repair kit from the shop. Players can choose where to go and how long they want to stay within an area. Depending on the player's choice, this will lead to different ending outcomes. A Desserted Departure conveys the idea that not everything comes for free, and assisting individuals can have its rewards. However, an individual should always be aware of their surroundings to keep themselves safe. 
+
+## Playnow
+
+Play A Desserted Departure [here](final_build/DessertedDeparture_FinalBuild.html)
 
 ## Game Prototype
 
